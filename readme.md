@@ -88,7 +88,5 @@ We welcome contributions from the community. If you have an idea to improve the 
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For any inquiries or questions, please feel free to contact Rahil Ahmed at [rahilahmed1720@gmail.com](mailto:rahilahmed1720@gmail.com).
 
